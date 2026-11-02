@@ -17,10 +17,9 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 ## Sponsor my work
 
-These projects stay free because I fund the hosting and API costs myself. If one of them saved you time, you can support the work:
+These projects stay free because I fund the hosting and API costs myself. If one of them saved you time, the easiest way to support the work is a coffee:
 
-- Ko-fi: https://ko-fi.com/nils_effmert
-- GitHub Sponsors: coming as soon as GitHub approves the account
+- Buy me a coffee on Ko-fi: https://ko-fi.com/nils_effmert
 
 ## Find me
 
