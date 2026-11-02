@@ -20,6 +20,7 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 These projects stay free because I fund the hosting and API costs myself. If one of them saved you time, the easiest way to support the work is a coffee:
 
 - Buy me a coffee on Ko-fi: https://ko-fi.com/nils_effmert
+- Or star the template, one click and no money: https://github.com/splashdeluxe/ai-job-search-template (Star button at the top right)
 
 ## Find me
 
