@@ -4,6 +4,8 @@ People Ops and HR Systems lead with a product background. Product owner at DATEV
 
 I build open-source tools for job search and People Ops, mostly with AI agents. Everything here is MIT and free to use.
 
+![Demo: one full run of the ai-job-search-template with the fictional example candidate](https://raw.githubusercontent.com/splashdeluxe/ai-job-search-template/main/assets/demo.gif)
+
 ## What I am working on
 
 **[ai-job-search-template](https://github.com/splashdeluxe/ai-job-search-template)**
