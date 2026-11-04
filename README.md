@@ -17,6 +17,11 @@ Scrapes job listings straight from company career sites across 10 ATS platforms,
 **[Risk Radar](https://github.com/splashdeluxe/risk-radar)**
 AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by probability and impact, routes low-confidence AI flags to a human review queue.
 
+## Currently
+
+- I am on a daily GitHub achievements run: one new badge or tier per day. Earned so far: Quickdraw, Pull Shark, Pair Extraordinaire, YOLO.
+- I follow AI builders here to learn from what they ship. A short digest of their releases and new repos lands every morning.
+
 ## Sponsor my work
 
 These projects stay free because I fund the hosting and API costs myself. If one of them saved you time, the easiest way to support the work is a coffee:
