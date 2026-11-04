@@ -8,6 +8,9 @@ I build open-source tools for job search and People Ops, mostly with AI agents. 
 
 ## What I am working on
 
+**[InterviewAI](https://github.com/splashdeluxe/InterviewAI)**
+A free, native Mac copilot for interviews and meetings. It listens to both sides of a call, transcribes on the Mac, and suggests answers grounded in your own files, from a local model or your own API key. Version 1.0.0 is out, MIT, no account and no paywall.
+
 **[ai-job-search-template](https://github.com/splashdeluxe/ai-job-search-template)**
 A job search system that runs with Muse on the free plan. It sources roles from official careers boards only, scores fit and gaps, builds one tailored CV per role and submits once, with a feedback loop on rejections.
 
@@ -34,3 +37,4 @@ These projects stay free because I fund the hosting and API costs myself. If one
 - LinkedIn: https://www.linkedin.com/in/nils-effmert
 - Website: https://perfectlivingspot.com
 - One-pager for the template: https://splashdeluxe.github.io/ai-job-search-template/
+
