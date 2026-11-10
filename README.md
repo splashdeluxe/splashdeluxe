@@ -1,4 +1,4 @@
-# Hi, I am Nils Effmert
+# Hi, I am Nils
 
 People Ops and HR Systems lead with a product background. Product owner at DATEV, co-founder of SparkloomAI. I live between Nuremberg, Germany and Bali, Indonesia.
 
@@ -22,8 +22,7 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 ## Currently
 
-- I am on a daily GitHub achievements run: one new badge or tier per day. Earned so far: Quickdraw, Pull Shark, Pair Extraordinaire, YOLO.
-- I follow AI builders here to learn from what they ship. A short digest of their releases and new repos lands every morning.
+- first Apple Watch app for scoring Padel Tennis games 
 
 ## Sponsor my work
 
