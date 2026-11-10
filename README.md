@@ -67,6 +67,30 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 </div>
 
+## Star history
+
+<a href="https://www.star-history.com/?type=date&repos=splashdeluxe%2Fai-job-search-template,splashdeluxe%2FInterviewAI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template,splashdeluxe/InterviewAI&type=date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template,splashdeluxe/InterviewAI&type=date&theme=light" />
+    <img alt="Star history of ai-job-search-template and InterviewAI" src="https://api.star-history.com/chart?repos=splashdeluxe/ai-job-search-template,splashdeluxe/InterviewAI&type=date&theme=light" />
+  </picture>
+</a>
+
+## Traffic, last 14 days
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-light.svg" />
+  <img alt="Daily repo page views and unique visitors, updated every morning" src="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-light.svg" />
+</picture>
+
+</div>
+
+Updated daily from GitHub's traffic data. Views are people opening a repo page; the pink dots are unique visitors.
+
 ## Sponsor my work
 
 These projects stay free because I fund the hosting and API costs myself. If one of them saved you time, the easiest way to support the work is a coffee:
