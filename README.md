@@ -1,4 +1,16 @@
-# Hi, I am Nils
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:45bd62&height=120&section=header&text=Nils%20Effmert&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Nils Effmert" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=45BD62&center=true&vCenter=true&width=560&lines=People+Ops+%26+HR+Systems+lead;I+build+open-source+AI+tools;Product+owner+at+DATEV%2C+co-founder+of+SparkloomAI;Nuremberg%2C+Germany+%2F+Bali%2C+Indonesia)](https://github.com/splashdeluxe)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nils--effmert-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-effmert)
+[![X](https://img.shields.io/badge/X-%40nilsllc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nilsllc)
+[![Website](https://img.shields.io/badge/Website-perfectlivingspot.com-45BD62?style=flat-square&logo=googlechrome&logoColor=white)](https://perfectlivingspot.com)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-nils__effmert-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/nils_effmert)
+![Profile views](https://komarev.com/ghpvc/?username=splashdeluxe&style=flat-square&color=45BD62)
+
+</div>
 
 People Ops and HR Systems lead with a product background. Product owner at DATEV, co-founder of SparkloomAI. I live between Nuremberg, Germany and Bali, Indonesia.
 
@@ -9,7 +21,7 @@ I build open-source tools for job search and People Ops, mostly with AI agents. 
 ## What I am working on
 
 **[InterviewAI](https://github.com/splashdeluxe/InterviewAI)**
-A free, native Mac copilot for interviews and meetings. It listens to both sides of a call, transcribes on the Mac, and suggests answers grounded in your own files, from a local model or your own API key. Version 1.0.0 is out, MIT, no account and no paywall.
+A free, native Mac copilot for interviews and meetings. It listens to both sides of a call, transcribes on the Mac, and suggests answers grounded in your own files, from a local model or your own API key. MIT, no account and no paywall.
 
 **[ai-job-search-template](https://github.com/splashdeluxe/ai-job-search-template)**
 A job search system that runs with Muse on the free plan. It sources roles from official careers boards only, scores fit and gaps, builds one tailored CV per role and submits once, with a feedback loop on rejections.
@@ -22,7 +34,38 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 ## Currently
 
-- first Apple Watch app for scoring Padel Tennis games 
+- Padelscoring: a free padel scorekeeper for iPhone and Apple Watch, phone-only for now while Apple sorts a device bug
+- JevBoard: a custom iOS keyboard I use every day
+- Perfect Living Spot: a small travel site I run on Cloudflare
+
+## Tools I use
+
+<div align="center">
+
+[![My skills](https://skillicons.dev/icons?i=py,ts,js,swift,html,css,git,github,cloudflare,postgres&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## GitHub in numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=splashdeluxe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashdeluxe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=splashdeluxe&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=splashdeluxe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splashdeluxe&theme=tokyo-night&hide_border=true)](https://github.com/splashdeluxe)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake.svg" />
+</picture>
+
+</div>
 
 ## Sponsor my work
 
@@ -37,3 +80,4 @@ These projects stay free because I fund the hosting and API costs myself. If one
 - Website: https://perfectlivingspot.com
 - One-pager for the template: https://splashdeluxe.github.io/ai-job-search-template/
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45bd62,100:2ea043&height=90&section=footer" width="100%" alt="" />
