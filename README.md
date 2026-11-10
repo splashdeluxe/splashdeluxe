@@ -50,14 +50,14 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=splashdeluxe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splashdeluxe&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splashdeluxe&theme=tokyonight" alt="Profile details and contributions over time" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=splashdeluxe&theme=tokyonight" alt="GitHub stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=splashdeluxe&theme=tokyonight" alt="Repos per language" />
 
 <img src="https://streak-stats.demolab.com?user=splashdeluxe&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=splashdeluxe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=splashdeluxe&theme=tokyo-night&hide_border=true)](https://github.com/splashdeluxe)
+[![Trophies](https://github-trophies.vercel.app/?username=splashdeluxe&theme=tokyonight)](https://github.com/splashdeluxe)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake-dark.svg" />
