@@ -82,9 +82,9 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-light.svg" />
-  <img alt="Daily repo page views and unique visitors, updated every morning" src="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/traffic-chart-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/main/assets/traffic-chart-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/main/assets/traffic-chart-light.svg" />
+  <img alt="Daily repo page views and unique visitors, updated every morning" src="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/main/assets/traffic-chart-light.svg" />
 </picture>
 
 </div>
