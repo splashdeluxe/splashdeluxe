@@ -59,12 +59,6 @@ AI-assisted delivery-risk dashboard for Scrum and SAFe teams. Scores risks by pr
 
 [![Trophies](https://github-trophies.vercel.app/?username=splashdeluxe&theme=tokyonight)](https://github.com/splashdeluxe)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/splashdeluxe/splashdeluxe/output/snake.svg" />
-</picture>
-
 </div>
 
 ## Star history
